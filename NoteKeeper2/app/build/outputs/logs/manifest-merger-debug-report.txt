@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\985e880daecb21250bc63520db843ca8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\0fb51c260ff691b49c088778316e6e83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\6d2d4299e981ec338b42179e3e3944b8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\4fdd920f6b861a2b1f01b8ab5bda0c46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\8cb28698179529dd5b015b0fe718c043\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\dc6aee9939094eff07e7ea9359dd818d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\27b73bba5472ecfbe81ddb47ec0071a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\894653aa14f368583cd0e1da97ca0c3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\72a149d504afe48504c79f8be3e860b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\086af843e0418a41774c99eac5101d6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\1a25105fdb210b2c6c7b008fbae1e731\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\ae86219207d8fc5207d8f79235b3d1fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\9da190fa0affceecff96ccd47e34b806\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\87438ff5bbbf9cb50d2cd1245fc703f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\c8c17fc4c671cc4586242930b047f06d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\25cdc6129a1c1bc32926dddd58cb4f7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\db772decfe9ca24c873509b0537a6a0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\739533c79595f8009709529ed81c327e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\ebcc11406d35137de04f8b120bba90d5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\2cf62f4b1fd77981579603f2da5a30a6\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\7eb4554670303f507187ae456b8458f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\04ea8d995a200b1bf831bc24bd913ef6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\258f104c822baedfd63960118df5c52e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\a1bade83ab17aadc0cb1cfe80057e137\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\54ca42434b859ab0d6361672289dfd30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\0b650913cfda1dcdce8b91d65dba50f5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\e55cb2c2b8f09fc3a1f115e6f541ee4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\ac3cf884ba6f64632ce35b9da8ff1585\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\507769fc924867000717e3f123758450\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\ead6e3b2f53c54e191d24fa8d779f239\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\bbc0f9e1d34c062dd553e3e0df1aa8e2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\985e880daecb21250bc63520db843ca8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\985e880daecb21250bc63520db843ca8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\6d2d4299e981ec338b42179e3e3944b8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\6d2d4299e981ec338b42179e3e3944b8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\ebcc11406d35137de04f8b120bba90d5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\ebcc11406d35137de04f8b120bba90d5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\2cf62f4b1fd77981579603f2da5a30a6\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\2cf62f4b1fd77981579603f2da5a30a6\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\ebcc11406d35137de04f8b120bba90d5\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.notekeeper.MainActivity
+ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\985e880daecb21250bc63520db843ca8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\985e880daecb21250bc63520db843ca8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\0fb51c260ff691b49c088778316e6e83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\0fb51c260ff691b49c088778316e6e83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\6d2d4299e981ec338b42179e3e3944b8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\6d2d4299e981ec338b42179e3e3944b8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\4fdd920f6b861a2b1f01b8ab5bda0c46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\4fdd920f6b861a2b1f01b8ab5bda0c46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\8cb28698179529dd5b015b0fe718c043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\8cb28698179529dd5b015b0fe718c043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\dc6aee9939094eff07e7ea9359dd818d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\dc6aee9939094eff07e7ea9359dd818d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\27b73bba5472ecfbe81ddb47ec0071a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\27b73bba5472ecfbe81ddb47ec0071a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\894653aa14f368583cd0e1da97ca0c3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\894653aa14f368583cd0e1da97ca0c3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\72a149d504afe48504c79f8be3e860b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\72a149d504afe48504c79f8be3e860b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\086af843e0418a41774c99eac5101d6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\086af843e0418a41774c99eac5101d6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\1a25105fdb210b2c6c7b008fbae1e731\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\1a25105fdb210b2c6c7b008fbae1e731\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\ae86219207d8fc5207d8f79235b3d1fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\ae86219207d8fc5207d8f79235b3d1fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\9da190fa0affceecff96ccd47e34b806\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\9da190fa0affceecff96ccd47e34b806\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\87438ff5bbbf9cb50d2cd1245fc703f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\87438ff5bbbf9cb50d2cd1245fc703f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\c8c17fc4c671cc4586242930b047f06d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\c8c17fc4c671cc4586242930b047f06d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\25cdc6129a1c1bc32926dddd58cb4f7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\25cdc6129a1c1bc32926dddd58cb4f7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\db772decfe9ca24c873509b0537a6a0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\db772decfe9ca24c873509b0537a6a0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\739533c79595f8009709529ed81c327e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\739533c79595f8009709529ed81c327e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\ebcc11406d35137de04f8b120bba90d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\ebcc11406d35137de04f8b120bba90d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\2cf62f4b1fd77981579603f2da5a30a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\2cf62f4b1fd77981579603f2da5a30a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\7eb4554670303f507187ae456b8458f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\7eb4554670303f507187ae456b8458f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\04ea8d995a200b1bf831bc24bd913ef6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\04ea8d995a200b1bf831bc24bd913ef6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\258f104c822baedfd63960118df5c52e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\258f104c822baedfd63960118df5c52e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\a1bade83ab17aadc0cb1cfe80057e137\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\a1bade83ab17aadc0cb1cfe80057e137\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\54ca42434b859ab0d6361672289dfd30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\54ca42434b859ab0d6361672289dfd30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\0b650913cfda1dcdce8b91d65dba50f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\0b650913cfda1dcdce8b91d65dba50f5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\e55cb2c2b8f09fc3a1f115e6f541ee4d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\e55cb2c2b8f09fc3a1f115e6f541ee4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\ac3cf884ba6f64632ce35b9da8ff1585\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\ac3cf884ba6f64632ce35b9da8ff1585\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\507769fc924867000717e3f123758450\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\507769fc924867000717e3f123758450\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\ead6e3b2f53c54e191d24fa8d779f239\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\ead6e3b2f53c54e191d24fa8d779f239\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\bbc0f9e1d34c062dd553e3e0df1aa8e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Princess\.gradle\caches\transforms-2\files-2.1\bbc0f9e1d34c062dd553e3e0df1aa8e2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Princess\AndroidStudioProjects\NoteKeeper2\app\src\main\AndroidManifest.xml
